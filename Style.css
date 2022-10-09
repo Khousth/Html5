@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+th {
+    background-color: #1e90ff;
+}
+
+tr {
+    background-color: rgb(189, 185, 185);
+}
+
+form {
+    background-color: rgb(209, 206, 206);
+    padding: 20px;
+}
+
+.Headefoot {
+    text-align: center;
+    background-color: #ed145b;
+}
+
+.centralizado {
+
+    text-align: center;
+}
+
+.intervalo {
+
+    background-color: rgb(139, 137, 137);
+}
+
+section{
+display: flex;
+
+}
+
+article{
+    margin: auto;
+}
+
+table{
+    border-spacing: 0;
+}
+
+td{
+    padding: 20px;
+}
+
+h2{
+    margin: 30px;
+}
+
+h3{
+    margin: 309px 0px;
+}

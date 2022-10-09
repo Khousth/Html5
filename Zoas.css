@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.formatacao1 {
+    text-align: center;
+    margin: 30px;
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.formatacao2 {
+    text-align: center;
+    margin: 60px;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.formatacao3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
